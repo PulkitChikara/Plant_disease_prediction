@@ -5,7 +5,7 @@
 ```
 git clone 
 ```
-- Goto the cloned folder.
+- Go to the cloned folder.
 ```
 cd Plant-Disease-Detection
 
